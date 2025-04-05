@@ -28,7 +28,7 @@ A simple Sudoku game built using Java and `javax.swing`. The purpose of this pro
 1. Clone the repository
 
 ```bash
-git clone https://github.com/wesley-archives/sudoku.git
+git clone https://github.com/wesleybertipaglia/sudoku.git
 ```
 
 2. Navigate to the project directory
